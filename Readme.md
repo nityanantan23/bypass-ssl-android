@@ -54,8 +54,8 @@ android sslpinning disable
 This repo was created for educational purposes only. Use it on your own risk.  
 
 
-## Buy me a cofee
-If You'd like to thank me you can buy me a cofee. Cofee is never too much :)
+## Buy me a coffee
+If You'd like to thank me you can buy me a coffee. coffee is never too much :)
 
 https://www.buymeacoffee.com/bnityanantZ
 
