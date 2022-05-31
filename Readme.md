@@ -36,7 +36,7 @@ su
 ```
 frida-ps -U
 ```
-- Once u find the application, run process number or the name; replace "appname" with your application name or pid
+- Once u find the application, run process number or the name. Replace "appname" with your application name or pid
 ```
 objection --gadget appname explore
 ```
