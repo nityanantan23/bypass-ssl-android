@@ -46,9 +46,16 @@ android sslpinning disable
 ```
 - After you've done. Use `Charles`, `BurpSuite` or any other tooling for request sniffing.
 
+## Side note
+- If you want Charles proxy license, you can buy me a coffee in https://www.buymeacoffee.com/websvc and leave your email in the message privately.
+
 
 ## Disclaimer
 This repo was created for educational purposes only. Use it on your own risk.  
 
 
+## Buy me a cofee
+If You'd like to thank me you can buy me a cofee. Cofee is never too much :)
+
+https://www.buymeacoffee.com/websvc
 
