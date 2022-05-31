@@ -47,7 +47,7 @@ android sslpinning disable
 - After you've done. Use `Charles`, `BurpSuite` or any other tooling for request sniffing.
 
 ## Side note
-- If you want Charles proxy license, you can buy me a coffee in https://www.buymeacoffee.com/bnityanantZ and leave your email in the message privately.
+- If you want Charles proxy license, you can get here [https://www.buymeacoffee.com/bnityanantZ](https://www.buymeacoffee.com/bnityanantZ/e/73591)
 
 
 ## Disclaimer
